@@ -1,2 +1,2 @@
-# In a given fragment of text, replace all parentheses   with box brackets  .
+# In a given fragment of text, replace all parentheses () and [ ]  with box brackets  .
 tr '()' '[]'
