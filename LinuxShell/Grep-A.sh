@@ -1,1 +1,1 @@
-grep -Ei 'the|that|then|those'
+grep -Eiw 'the|that|then|those'
